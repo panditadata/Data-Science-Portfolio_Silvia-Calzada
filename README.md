@@ -9,7 +9,9 @@
  
 ![](/images/FrictionChart1.png)
 
+![](/images/screenshot6.png)
 
+![](/images/screenshot7.png)
 
 ![](/images/Interactors.png)
 
