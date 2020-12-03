@@ -7,5 +7,5 @@
 <p>The function 'update' will build the scroll down list with the diferrent trogonometric functions to see the impact of each of them  in the friction of the block. <p>
 <p>Display of the chart follows. Final step, interact command display all the interactors.<p> Friction equation can be studied and analyze the impact of the selected variables (mass, friction coefficient, phase).<p>
  
-![Friction Chart](/images/FrictionChart1.PNG)
-![Bokeh Interactors (iPyWidgets)](/images/Interactors.PNG)
+![Friction Chart](/images/FrictionChart1.png)
+![Bokeh Interactors (iPyWidgets)](/images/Interactors.png)
