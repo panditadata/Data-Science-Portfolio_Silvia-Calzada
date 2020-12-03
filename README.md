@@ -11,19 +11,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-![](/images/Interactors.png)
+![](/images/Interactors.PNG)
 
 
