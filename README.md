@@ -11,6 +11,6 @@
 
 
 
-![](/images/Interactors.PNG)
+![](/images/Interactors.png)
 
 
