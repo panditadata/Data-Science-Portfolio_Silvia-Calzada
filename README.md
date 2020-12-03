@@ -9,9 +9,13 @@
  
 ![](/images/FrictionChart1.png)
 
+<img src="images/FrictionChart1.png" />
+
 ![](/images/screenshot6.png)
 
 ![](/images/screenshot7.png)
+
+<img src="images/interactors.png" />
 
 ![](/images/Interactors.png)
 
