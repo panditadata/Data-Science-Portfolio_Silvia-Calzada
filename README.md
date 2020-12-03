@@ -9,6 +9,21 @@
  
 ![](/images/FrictionChart1.png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![](/images/Interactors.png)
 
 
