@@ -10,7 +10,7 @@
 
 <img src="images/FrictionChart1.png"/>
 
-<img src="images/screenshot7.png"/>
+<img src="images/screenshot8.png"/>
 
 
 
