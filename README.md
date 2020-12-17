@@ -1,8 +1,8 @@
 ## Project Basic Statistics with Python (ANOVA) (Coursera)
 
-<p>The indicator selected to do all the stats calculation is % Unemployment for Females (Worldwide). 
-Finally, the indicator data is displayed using folium choropleth.<p>
-Table of Contents
+<p>The indicator selected to do all the stats calculation is % Unemployment for Females (Worldwide). <p>
+<p>Finally, the indicator data is displayed using folium choropleth.<p>
+<p>Table of Contents
 <ul>
 <li>Download data, upload data, read data into pandas</li>
 <li>Cleaning the data by sorting and merging 2 data sets and dropping unnecessary columns</li>
@@ -11,12 +11,12 @@ Table of Contents
 <li> Removing all the NAN values and countries without values </li>
 <li> Calculating main stats of the data set (mean, std, quartiles) </li>
 <li> Transpose the data year column, income groups as index </li>
-<li> Display mean % Female Unemployment by Income Group and Year </li>
+<li> Display mean % Female Unemployment by Income Group and Year </li><p>
 <img src="images/Mean Unemployment.png"/>
-<li> Display mean % Female Unemployment by Region and Year </li>
+<p><li> Display mean % Female Unemployment by Region and Year </li>
 <li> ANOVA Calculation of Income Group Data and boxplot display</li>  
 <li> Selecting 2019 data </li>  
-<li> the indicator data for selected year is displayed using folium choropleth </li>
+<li> the indicator data for selected year is displayed using folium choropleth </li><p>
 
 <img src="images/map.png"/> 
 </ul>
