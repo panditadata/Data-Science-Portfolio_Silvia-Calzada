@@ -1,4 +1,4 @@
-# Project  Basic Statistics with Python (ANOVA) (Coursera)
+# Project Basic Statistics with Python (ANOVA) (Coursera)
 <p>The indicator selected to do all the stats calculation is % Unemployment for Females (Worldwide). 
 Finally, the indicator data is displayed using folium choropleth.<p>
 Table of Contents
@@ -16,7 +16,6 @@ Table of Contents
 <li> Selecting 2019 data </li>  
 <li> the indicator data for selected year is displayed using folium choropleth </li>
 <img src="images/map.png"/>
-
 
 # Project iPywidgets with Bokeh
 
