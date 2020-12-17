@@ -2,7 +2,7 @@
 
 <p>The indicator selected to do all the stats calculation is % Unemployment for Females (Worldwide). <p>
 <p>Finally, the indicator data is displayed using folium choropleth.<p>
-<p>Table of Contents<p>
+Table of Contents
 <p><ul><li>Download data, upload data, read data into pandas</li>
 <li>Cleaning the data by sorting and merging 2 data sets and dropping unnecessary columns</li>
 <li>Selecting 1 indicator </li>
