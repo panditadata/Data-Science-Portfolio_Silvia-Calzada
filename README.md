@@ -1,4 +1,4 @@
-# Project Basic Statistics with Python (ANOVA) (Coursera)
+## Project Basic Statistics with Python (ANOVA) (Coursera)
 <p>The indicator selected to do all the stats calculation is % Unemployment for Females (Worldwide). 
 Finally, the indicator data is displayed using folium choropleth.<p>
 Table of Contents
@@ -17,7 +17,7 @@ Table of Contents
 <li> the indicator data for selected year is displayed using folium choropleth </li>
 <img src="images/map.png"/>
 
-# Project iPywidgets with Bokeh
+## Project iPywidgets with Bokeh
 
 <p>This demo shows off an interactive visualization using Bokeh for plotting and ipywidgets interactors. No Bokeh server required. The demo runs entirely inside Jupyter notebook.<p>
 <p>The impact of the mass, friction coefficient, and phase is analyzed within  the friction equation for a block of mass m. The block is on a inclined plane with angle x. <p>
