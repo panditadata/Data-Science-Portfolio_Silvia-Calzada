@@ -1,5 +1,5 @@
 # Basic statistics of a World Bank Dataset (Coursera)
-<p>The indicator selected to do all the stats calculation is % Unemployment for Females (WorldWide)
+<p>The indicator selected to do all the stats calculation is % Unemployment for Females (WorldWide). 
 Finally, the indicator data is displayed using folium choropleth<p>
 Table of Contents
 <ul>
