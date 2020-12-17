@@ -1,4 +1,4 @@
-#### Coursera Project to calculate basic statistics of a World Bank Dataset
+# Basic statistics of a World Bank Dataset (Coursera)
 #### The indicator selected to do all the stats calculation is % Unemployment for Females (WorldWide)
 #### Finally, the indicator data is displayed using folium choropleth
 Table of Contents
