@@ -19,6 +19,7 @@ Table of Contents
 
 
 # Project iPywidgets with Bokeh
+
 <p>This demo shows off an interactive visualization using Bokeh for plotting and ipywidgets interactors. No Bokeh server required. The demo runs entirely inside Jupyter notebook.<p>
 <p>The impact of the mass, friction coefficient, and phase is analyzed within  the friction equation for a block of mass m. The block is on a inclined plane with angle x. <p>
 <p>First BokehJS is loaded successfully.  Angle degrees and the friction funtion is defined next.<p>
