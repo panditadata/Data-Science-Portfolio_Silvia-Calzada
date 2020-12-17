@@ -21,6 +21,7 @@ Table of Contents
 <img src="images/map.png"/> 
 
 ************************************************************************************************************************************
+
 ## Project iPywidgets with Bokeh
 
 <p>This demo shows off an interactive visualization using Bokeh for plotting and ipywidgets interactors. No Bokeh server required. The demo runs entirely inside Jupyter notebook.<p>
